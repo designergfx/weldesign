@@ -1499,14 +1499,16 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info-box {
-  color: #313030;
-  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  color: #ffffff;
+  display: inline-block;
+  background: #c71e33;
+  box-shadow: 0 0 30px rgba(145, 145, 145, 0.6);
   padding: 20px;
 }
 
 .contact .info-box i {
   font-size: 32px;
-  color: #c71e33;
+  color: #ffffff;
   border-radius: 50%;
   padding: 8px;
   border: 2px dotted #ffded4;
@@ -1515,13 +1517,14 @@ section {
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #656262;
+  color: #ffffff;
   font-weight: 700;
   margin: 10px 0 10px 68px;
 }
 
 .contact .info-box p {
   padding: 0;
+  color: #ffffff;
   line-height: 24px;
   font-size: 14px;
   margin: 0 0 0 68px;
